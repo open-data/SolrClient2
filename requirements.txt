@@ -1,0 +1,4 @@
+kazoo
+tox
+requests
+mmh3
